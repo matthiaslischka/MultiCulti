@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Matthias Lischka</Authors>
+    <Description>A library for changing the current thread culture and UI culture temporarily.</Description>
+  </PropertyGroup>
+
+</Project>

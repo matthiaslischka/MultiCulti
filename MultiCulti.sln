@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCulti", "src\MultiCulti\MultiCulti.csproj", "{18CCC30C-36C5-40C4-9DE1-E46A652C6970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCulti.Tests", "src\MultiCulti.Tests\MultiCulti.Tests.csproj", "{159718D7-7B78-4617-96C1-72D518DAD0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CCC30C-36C5-40C4-9DE1-E46A652C6970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CCC30C-36C5-40C4-9DE1-E46A652C6970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CCC30C-36C5-40C4-9DE1-E46A652C6970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CCC30C-36C5-40C4-9DE1-E46A652C6970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159718D7-7B78-4617-96C1-72D518DAD0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159718D7-7B78-4617-96C1-72D518DAD0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159718D7-7B78-4617-96C1-72D518DAD0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159718D7-7B78-4617-96C1-72D518DAD0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {388453AF-3CA7-4217-B822-6B60B761166E}
+	EndGlobalSection
+EndGlobal
