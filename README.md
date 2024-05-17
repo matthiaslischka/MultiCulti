@@ -1,5 +1,9 @@
 # MultiCulti
 
+```powershell  
+PM> Install-Package MultiCulti
+```
+
 ```c#
 Console.WriteLine(endOfTheWorld.ToShortDateString()); // -> 12/31/1999
 
