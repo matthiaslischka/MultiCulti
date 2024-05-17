@@ -1,4 +1,7 @@
 # MultiCulti
+[![](https://github.com/matthiaslischka/MultiCulti/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/matthiaslischka/MultiCulti/actions/workflows/build-and-test.yml)
+[![](https://img.shields.io/nuget/v/MultiCulti)](https://www.nuget.org/packages/MultiCulti/)
+
 
 ```powershell  
 PM> Install-Package MultiCulti
